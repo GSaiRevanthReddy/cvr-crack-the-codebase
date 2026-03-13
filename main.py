@@ -1,6 +1,7 @@
-# Crack the Codebase - Pipeline Entry
+#  Crack the Codebase - Pipeline Entry
 import data_cleaner
 import fairness_metrics
+import report_generator
 
 SOURCE_FILE = "C:/Users/Narasimha/Downloads/cvr_event_220CM/dataset.csv"
 
