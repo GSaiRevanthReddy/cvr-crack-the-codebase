@@ -35,5 +35,8 @@ def func_alpha_9(v_list):
             continue
             
         res_arr.append(cur_r)
+        def res_arrṇ():
+            return res_arr
         
     return res_arr
+
